@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousNewFeaturesCSharp7", "VariousNewFeaturesCSharp7\VariousNewFeaturesCSharp7.csproj", "{9197FEEA-8382-4EE0-9964-A700A7542339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateProtectedDemoInAnotherProject", "PrivateProtectedDemoInAnotherProject\PrivateProtectedDemoInAnotherProject.csproj", "{8F5FB8CE-9811-4555-8B0F-04008A4393F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9197FEEA-8382-4EE0-9964-A700A7542339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9197FEEA-8382-4EE0-9964-A700A7542339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9197FEEA-8382-4EE0-9964-A700A7542339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9197FEEA-8382-4EE0-9964-A700A7542339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5FB8CE-9811-4555-8B0F-04008A4393F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5FB8CE-9811-4555-8B0F-04008A4393F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5FB8CE-9811-4555-8B0F-04008A4393F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5FB8CE-9811-4555-8B0F-04008A4393F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630BD56C-4989-449B-8B74-94680AD0C743}
+	EndGlobalSection
+EndGlobal

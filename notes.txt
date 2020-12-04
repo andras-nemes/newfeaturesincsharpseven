@@ -1,0 +1,17 @@
+To enable C#7.1 features:
+
+1. Open project properties
+2. Click "Build"
+3. Click Advanced... in the bottom right hand corner
+4. Language version will be set to "C# latest major version" which defaults to C# 7 due to "major"
+5. change it to either "C# latest minor version" or to the targeted C# version such as 7.2
+
+To download .NET framework 4.7.1: https://www.microsoft.com/net/download/visual-studio-sdks
+
+Other topics not demonstrated:
+- ref parameter new features
+- in parameters for structs (get reference semantics for value types)
+  - "in" parameters also become readonly
+    - those method params cannot be modified within the method body
+- ref readonly variables
+- Span of T related to ref structs
